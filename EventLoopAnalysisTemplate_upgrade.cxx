@@ -14,7 +14,7 @@
 //
 //
 // Compile me with:
-// g++ -std=c++11 -g -O3 -Wall -Wextra -o EventLoopAnalysis EventLoopAnalysisTemplate.cxx $(root-config --cflags --libs) -lGenVector
+// g++ -std=c++11 -g -O3 -Wall -Wextra -o EventLoopAnalysis EventLoopAnalysisTemplate.cxx $(root-config --cflags --libs)
 /////////////////////////////////////////////////////////////////////
 
 //Include ROOT classes
